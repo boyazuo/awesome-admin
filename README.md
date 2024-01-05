@@ -26,3 +26,7 @@
 
 #### Naive UI
 - [**naive-ui-admin**](https://github.com/jekip/naive-ui-admin) Naive Ui Admin 完全免费，且可商用，基于 Vue3.0、Vite、 Naive UI、TypeScript 的中后台解决方案。
+
+#### Other UI
+- [**Arco Design Pro**](https://github.com/arco-design/arco-design-pro-vue) 基于 Arco Design Vue 组件库的开箱即用的中后台前端解决方案。
+- [**Vue TSX Admin**](https://github.com/manyuemeiquqi/vue-tsx-admin) Vue TSX Admin 是一个免费开源的中后台管理系统模块，UI 参考 acro design pro + ant design pro，它使用了最新的前端技术栈，完全采用 Vue3 + TSX 的模式进行开发，提供了开箱即用的中后台前端解决方案。

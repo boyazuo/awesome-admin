@@ -28,10 +28,12 @@
 
 - [**naive-ui-admin**](https://github.com/jekip/naive-ui-admin) [![stars](https://img.shields.io/github/stars/jekip/naive-ui-admin?style=flat)](https://github.com/jekip/naive-ui-admin) [![last commit](https://img.shields.io/github/last-commit/jekip/naive-ui-admin)](https://github.com/jekip/naive-ui-admin)\
   Naive Ui Admin 完全免费，且可商用，基于 Vue3.0、Vite、 Naive UI、TypeScript 的中后台解决方案。
+- [**vue-naive-admin**](https://github.com/zclzone/vue-naive-admin) [![stars](https://img.shields.io/github/stars/zclzone/vue-naive-admin?style=flat)](https://github.com/zclzone/vue-naive-admin) [![last commit](https://img.shields.io/github/last-commit/zclzone/vue-naive-admin)](https://github.com/zclzone/vue-naive-admin) \
+  Vue Naive Admin 是一款基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 
 #### Other UI
 
 - [**Arco Design Pro**](https://github.com/arco-design/arco-design-pro-vue) [![stars](https://img.shields.io/github/stars/arco-design/arco-design-pro-vue?style=flat)](https://github.com/arco-design/arco-design-pro-vue) [![last commit](https://img.shields.io/github/last-commit/arco-design/arco-design-pro-vue)](https://github.com/arco-design/arco-design-pro-vue)\
-  基于 Arco Design Vue 组件库的开箱即用的中后台前端解决方案。
+  Arco Design Pro是基于 Arco Design Vue 组件库的开箱即用的中后台前端解决方案。
 - [**Vue TSX Admin**](https://github.com/manyuemeiquqi/vue-tsx-admin) [![stars](https://img.shields.io/github/stars/manyuemeiquqi/vue-tsx-admin?style=flat)](https://github.com/manyuemeiquqi/vue-tsx-admin) [![last commit](https://img.shields.io/github/last-commit/manyuemeiquqi/vue-tsx-admin)](https://github.com/manyuemeiquqi/vue-tsx-admin)\
   Vue TSX Admin 是一个免费开源的中后台管理系统模块，UI 参考 acro design pro + ant design pro，它使用了最新的前端技术栈，完全采用 Vue3 + TSX 的模式进行开发，提供了开箱即用的中后台前端解决方案。

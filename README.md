@@ -10,6 +10,8 @@
 
 - [**vue-vben-admin**](https://github.com/vbenjs/vue-vben-admin) [![stars](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=flat)](https://github.com/vbenjs/vue-vben-admin) [![last commit](https://img.shields.io/github/last-commit/vbenjs/vue-vben-admin)](https://github.com/vbenjs/vue-vben-admin) \
   Vue Vben Admin 是一个免费开源的中后台模版。使用了最新的 vue3, vite4, TypeScript, Ant design Vue 等主流技术开发，开箱即用的中后台前端解决方案。
+- [**JeecgBoot-Vue3**](https://github.com/jeecgboot/jeecgboot-vue3) [![stars](https://img.shields.io/github/stars/jeecgboot/jeecgboot-vue3?style=flat)](https://github.com/jeecgboot/jeecgboot-vue3) [![last commit](https://img.shields.io/github/last-commit/jeecgboot/jeecgboot-vue3)](https://github.com/jeecgboot/jeecgboot-vue3) \
+  JeecgBoot-Vue3 采用 Vue3.0、Vite、 Ant-Design-Vue4、TypeScript 等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。
 - [**vue3-antdv-admin**](https://github.com/buqiyuan/vue3-antdv-admin) [![stars](https://img.shields.io/github/stars/buqiyuan/vue3-antdv-admin?style=flat)](https://github.com/buqiyuan/vue3-antdv-admin) [![last commit](https://img.shields.io/github/last-commit/buqiyuan/vue3-antdv-admin)](https://github.com/buqiyuan/vue3-antdv-admin) \
   基于 vite4.x + vue3.x + antd-design-vue4.x + typescript5.x 的后台管理系统模板
 

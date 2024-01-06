@@ -10,6 +10,8 @@
 
 - [**vue-vben-admin**](https://github.com/vbenjs/vue-vben-admin) [![stars](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=flat)](https://github.com/vbenjs/vue-vben-admin) [![last commit](https://img.shields.io/github/last-commit/vbenjs/vue-vben-admin)](https://github.com/vbenjs/vue-vben-admin) \
   Vue Vben Admin 是一个免费开源的中后台模版。使用了最新的 vue3, vite4, TypeScript, Ant design Vue 等主流技术开发，开箱即用的中后台前端解决方案。
+- [**vue3-antdv-admin**](https://github.com/buqiyuan/vue3-antdv-admin) [![stars](https://img.shields.io/github/stars/buqiyuan/vue3-antdv-admin?style=flat)](https://github.com/buqiyuan/vue3-antdv-admin) [![last commit](https://img.shields.io/github/last-commit/buqiyuan/vue3-antdv-admin)](https://github.com/buqiyuan/vue3-antdv-admin) \
+  基于 vite4.x + vue3.x + antd-design-vue4.x + typescript5.x 的后台管理系统模板
 
 #### Element UI
 

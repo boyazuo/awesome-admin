@@ -42,6 +42,9 @@
 - [**vue-naive-admin**](https://github.com/zclzone/vue-naive-admin) [![stars](https://img.shields.io/github/stars/zclzone/vue-naive-admin?style=flat)](https://github.com/zclzone/vue-naive-admin) [![last commit](https://img.shields.io/github/last-commit/zclzone/vue-naive-admin)](https://github.com/zclzone/vue-naive-admin) \
   Vue Naive Admin 是一款基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 
+- [**vben3**](https://github.com/vbenjs/vben3) [![stars](https://img.shields.io/github/stars/vbenjs/vben3?style=flat)](https://github.com/vbenjs/vben3) [![last commit](https://img.shields.io/github/last-commit/vbenjs/vben3)](https://github.com/vbenjs/vben3) \
+  Vben3 是一个免费开源的中后台模版。使用了最新的 vue3,vite4,TypeScript 等主流技术开发，开箱即用的中后台前端解决方案。
+
 #### Other UI
 
 - [**Arco Design Pro**](https://github.com/arco-design/arco-design-pro-vue) [![stars](https://img.shields.io/github/stars/arco-design/arco-design-pro-vue?style=flat)](https://github.com/arco-design/arco-design-pro-vue) [![last commit](https://img.shields.io/github/last-commit/arco-design/arco-design-pro-vue)](https://github.com/arco-design/arco-design-pro-vue)\

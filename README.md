@@ -25,6 +25,9 @@
 - [**vue-pure-admin**](https://github.com/pure-admin/vue-pure-admin) [![stars](https://img.shields.io/github/stars/pure-admin/vue-pure-admin?style=flat)](https://github.com/pure-admin/vue-pure-admin) [![last commit](https://img.shields.io/github/last-commit/pure-admin/vue-pure-admin)](https://github.com/pure-admin/vue-pure-admin)\
   vue-pure-admin 是一款开源免费且开箱即用的中后台管理系统模版，使用了最新的 Vue3、Vite、Element-Plus、TypeScript、Pinia、Tailwindcss 等主流技术开发。
 
+- [**Gin-vue-admin**](https://github.com/flipped-aurora/gin-vue-admin) [![stars](https://img.shields.io/github/stars/flipped-aurora/gin-vue-admin?style=flat)](https://github.com/flipped-aurora/gin-vue-admin) [![last commit](https://img.shields.io/github/last-commit/flipped-aurora/gin-vue-admin)](https://github.com/flipped-aurora/gin-vue-admin) \
+  Gin-vue-admin 是一个基于 vite+vue3+gin 开发的全栈前后端分离的开发基础平台
+
 - [**vue-admin-better**](https://github.com/chuzhixin/vue-admin-better) [![stars](https://img.shields.io/github/stars/chuzhixin/vue-admin-better?style=flat)](https://github.com/chuzhixin/vue-admin-better) [![last commit](https://img.shields.io/github/last-commit/chuzhixin/vue-admin-better)](https://github.com/chuzhixin/vue-admin-better)\
   基于 Vue2、Element UI 开发的后台管理系统。
 

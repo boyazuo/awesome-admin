@@ -17,6 +17,9 @@
 - [**vue3-antdv-admin**](https://github.com/buqiyuan/vue3-antdv-admin) [![stars](https://img.shields.io/github/stars/buqiyuan/vue3-antdv-admin?style=flat)](https://github.com/buqiyuan/vue3-antdv-admin) [![last commit](https://img.shields.io/github/last-commit/buqiyuan/vue3-antdv-admin)](https://github.com/buqiyuan/vue3-antdv-admin) \
   基于 vite4.x + vue3.x + antd-design-vue4.x + typescript5.x 的后台管理系统模板
 
+- [**soybean-admin-antd**](https://github.com/soybeanjs/soybean-admin-antd) [![stars](https://img.shields.io/github/stars/soybeanjs/soybean-admin-antd?style=flat)](https://github.com/soybeanjs/soybean-admin-antd) [![last commit](https://img.shields.io/github/last-commit/soybeanjs/soybean-admin-antd)](https://github.com/soybeanjs/soybean-admin-antd) \
+  Soybean Admin 的 Ant Design Vue 4 版本，基于 Vue3、Vite3、TypeScript、Pinia 和 UnoCSS 的中后台模板。
+
 #### Element UI
 
 - [**vue-element-admin**](https://github.com/PanJiaChen/vue-element-admin) [![stars](https://img.shields.io/github/stars/PanJiaChen/vue-element-admin?style=flat)](https://github.com/PanJiaChen/vue-element-admin) [![last commit](https://img.shields.io/github/last-commit/PanJiaChen/vue-element-admin)](https://github.com/PanJiaChen/vue-element-admin)\

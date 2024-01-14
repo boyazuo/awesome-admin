@@ -39,8 +39,11 @@
 
 #### Naive UI
 
-- [**naive-ui-admin**](https://github.com/jekip/naive-ui-admin) [![stars](https://img.shields.io/github/stars/jekip/naive-ui-admin?style=flat)](https://github.com/jekip/naive-ui-admin) [![last commit](https://img.shields.io/github/last-commit/jekip/naive-ui-admin)](https://github.com/jekip/naive-ui-admin)\
+- [**naive-ui-admin**](https://github.com/jekip/naive-ui-admin) [![stars](https://img.shields.io/github/stars/jekip/naive-ui-admin?style=flat)](https://github.com/jekip/naive-ui-admin) [![last commit](https://img.shields.io/github/last-commit/jekip/naive-ui-admin)](https://github.com/jekip/naive-ui-admin) \
   Naive Ui Admin 完全免费，且可商用，基于 Vue3.0、Vite、 Naive UI、TypeScript 的中后台解决方案。
+
+- [**Soybean Admin**](https://github.com/honghuangdc/soybean-admin) [![stars](https://img.shields.io/github/stars/honghuangdc/soybean-admin?style=flat)](https://github.com/honghuangdc/soybean-admin) [![last commit](https://img.shields.io/github/last-commit/honghuangdc/soybean-admin)](https://github.com/honghuangdc/soybean-admin) \
+  Soybean Admin 是一个基于 Vue3、Vite3、TypeScript、NaiveUI、Pinia 和 UnoCSS 的清新优雅的中后台模版，它使用了最新流行的前端技术栈，内置丰富的主题配置，有着极高的代码规范，基于文件的路由系统以及基于 Mock 的动态权限路由，开箱即用的中后台前端解决方案。
 
 - [**vue-naive-admin**](https://github.com/zclzone/vue-naive-admin) [![stars](https://img.shields.io/github/stars/zclzone/vue-naive-admin?style=flat)](https://github.com/zclzone/vue-naive-admin) [![last commit](https://img.shields.io/github/last-commit/zclzone/vue-naive-admin)](https://github.com/zclzone/vue-naive-admin) \
   Vue Naive Admin 是一款基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。

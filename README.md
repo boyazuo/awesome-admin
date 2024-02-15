@@ -22,6 +22,9 @@
 
 #### Element UI
 
+- [**RuoYi-Vue3**](https://github.com/yangzongzhuan/RuoYi-Vue3) [![stars](https://img.shields.io/github/stars/yangzongzhuan/RuoYi-Vue3?style=flat)](https://github.com/yangzongzhuan/RuoYi-Vue3) [![last commit](https://img.shields.io/github/last-commit/yangzongzhuan/RuoYi-Vue3)](https://github.com/yangzongzhuan/RuoYi-Vue3)\
+  RuoYi-Vue3 基于 SpringBoot+Vue3 前后端分离的 Java 快速开发框架，前端技术栈为 Vue3 + Element Plus + Vite。
+
 - [**vue-element-admin**](https://github.com/PanJiaChen/vue-element-admin) [![stars](https://img.shields.io/github/stars/PanJiaChen/vue-element-admin?style=flat)](https://github.com/PanJiaChen/vue-element-admin) [![last commit](https://img.shields.io/github/last-commit/PanJiaChen/vue-element-admin)](https://github.com/PanJiaChen/vue-element-admin)\
   vue-element-admin 是一个后台前端解决方案，它基于 vue 和 element-ui 实现。
 

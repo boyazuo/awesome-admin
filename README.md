@@ -9,6 +9,9 @@
 #### Ant Design Vue
 
 - [**vue-vben-admin**](https://github.com/vbenjs/vue-vben-admin) [![stars](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=flat)](https://github.com/vbenjs/vue-vben-admin) [![last commit](https://img.shields.io/github/last-commit/vbenjs/vue-vben-admin)](https://github.com/vbenjs/vue-vben-admin) \
+  YXBoot 是一个开箱即用的前后台管理系统框架。YXBoot 以前后端分离的方式整合了前后端框架，前端框架使用了最新的 vue3, vite6, Ant Design Vue 4, TypeScript 等主流技术开发，后端框架使用了最新的 SpringBoot3, Spring Security, JWT 等技术。
+
+- [**yxboot**](https://github.com/boyazuo/yxboot) [![stars](https://img.shields.io/github/stars/boyazuo/yxboot?style=flat)](https://github.com/boyazuo/yxboot) [![last commit](https://img.shields.io/github/last-commit/boyazuo/yxboot)](https://github.com/boyazuo/yxboot) \
   Vue Vben Admin 是一个免费开源的中后台模版。使用了最新的 vue3, vite4, TypeScript, Ant design Vue 等主流技术开发，开箱即用的中后台前端解决方案。
 
 - [**JeecgBoot-Vue3**](https://github.com/jeecgboot/jeecgboot-vue3) [![stars](https://img.shields.io/github/stars/jeecgboot/jeecgboot-vue3?style=flat)](https://github.com/jeecgboot/jeecgboot-vue3) [![last commit](https://img.shields.io/github/last-commit/jeecgboot/jeecgboot-vue3)](https://github.com/jeecgboot/jeecgboot-vue3) \

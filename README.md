@@ -14,14 +14,14 @@
 - [**YXBoot**](https://github.com/boyazuo/yxboot) [![stars](https://img.shields.io/github/stars/boyazuo/yxboot?style=flat)](https://github.com/boyazuo/yxboot) [![last commit](https://img.shields.io/github/last-commit/boyazuo/yxboot)](https://github.com/boyazuo/yxboot) \
   YXBoot 是一个开箱即用的前后台管理系统框架。YXBoot 以前后端分离的方式整合了前后端框架，前端框架使用了最新的 vue3, vite6, Ant Design Vue 4, TypeScript 等主流技术开发，后端框架使用了最新的 SpringBoot3, Spring Security, JWT 等技术。
 
-- [**JeecgBoot-Vue3**](https://github.com/jeecgboot/jeecgboot-vue3) [![stars](https://img.shields.io/github/stars/jeecgboot/jeecgboot-vue3?style=flat)](https://github.com/jeecgboot/jeecgboot-vue3) [![last commit](https://img.shields.io/github/last-commit/jeecgboot/jeecgboot-vue3)](https://github.com/jeecgboot/jeecgboot-vue3) \
-  JeecgBoot-Vue3 采用 Vue3.0、Vite、 Ant-Design-Vue4、TypeScript 等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。
-
 - [**vue3-antdv-admin**](https://github.com/buqiyuan/vue3-antdv-admin) [![stars](https://img.shields.io/github/stars/buqiyuan/vue3-antdv-admin?style=flat)](https://github.com/buqiyuan/vue3-antdv-admin) [![last commit](https://img.shields.io/github/last-commit/buqiyuan/vue3-antdv-admin)](https://github.com/buqiyuan/vue3-antdv-admin) \
   基于 vite4.x + vue3.x + antd-design-vue4.x + typescript5.x 的后台管理系统模板
 
 - [**soybean-admin-antd**](https://github.com/soybeanjs/soybean-admin-antd) [![stars](https://img.shields.io/github/stars/soybeanjs/soybean-admin-antd?style=flat)](https://github.com/soybeanjs/soybean-admin-antd) [![last commit](https://img.shields.io/github/last-commit/soybeanjs/soybean-admin-antd)](https://github.com/soybeanjs/soybean-admin-antd) \
   Soybean Admin 的 Ant Design Vue 4 版本，基于 Vue3、Vite3、TypeScript、Pinia 和 UnoCSS 的中后台模板。
+
+- [**JeecgBoot-Vue3**](https://github.com/jeecgboot/jeecgboot-vue3) [![stars](https://img.shields.io/github/stars/jeecgboot/jeecgboot-vue3?style=flat)](https://github.com/jeecgboot/jeecgboot-vue3) [![last commit](https://img.shields.io/github/last-commit/jeecgboot/jeecgboot-vue3)](https://github.com/jeecgboot/jeecgboot-vue3) \
+  JeecgBoot-Vue3 采用 Vue3.0、Vite、 Ant-Design-Vue4、TypeScript 等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。
 
 #### Element UI
 
@@ -74,3 +74,8 @@
 
 - [**Ant Design Pro**](https://github.com/ant-design/ant-design-pro) [![stars](https://img.shields.io/github/stars/ant-design/ant-design-pro?style=flat)](https://github.com/ant-design/ant-design-pro) [![last commit](https://img.shields.io/github/last-commit/ant-design/ant-design-pro)](https://github.com/ant-design/ant-design-pro) \
   Ant Design Pro 是一个开箱即用的中台前端/设计解决方案。基于 Ant Design 体系精心设计，使用 TypeScript/React/umi/dva/antd 等前端前沿技术开发。
+
+#### Shadcn
+
+- [**Shadcn Admin**](https://github.com/satnaing/shadcn-admin) [![stars](https://img.shields.io/github/stars/satnaing/shadcn-admin?style=flat)](https://github.com/satnaing/shadcn-admin) [![last commit](https://img.shields.io/github/last-commit/satnaing/shadcn-admin)](https://github.com/satnaing/shadcn-admin) \
+  Shadcn Admin 是基于 Shadcd 和 Vite 的管理后台模板，支持手机端响应设计，注重可交互设计。
